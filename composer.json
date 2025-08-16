@@ -9,7 +9,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Problems\\": "problems/"
+            "Problems\\": "problems/",
+            "DataStructures\\": "DataStructures/"
         }
     },
     "autoload-dev": {
